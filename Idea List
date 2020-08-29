@@ -23,6 +23,14 @@ Ideas:
   Idea - Blackjack
   Description - Make a simple game of Blackjack
   
+  Idea - Life Simulator
+  Description - We could make a class to hold all of a person's data (Legal Name, DOB, [Fake] Social Security ID, possessions, etc.), 
+                and afterwards we could make other classes that will utilize this Person class to store their data such as banking info.
+                ex: Person class, Shopping Class, Bank Class, Job Class, Schooling Class, etc.
+  
+  Idea - 
+  Description - 
+  
 *Kevin*:
 https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_where_can_i_find_practice_exercises_and_project_ideas.3F
 https://www.reddit.com/r/dailyprogrammer/
