@@ -2,7 +2,7 @@ Ideas:
 
 *Harold*:
 
-  Idea - Cipher Project
+  Idea - Cypher Project
   Description - We choose one of the current existing cyphers and then we try to replicate it through coding. 
                 OR we make our own cypher and replicate it through coding.
 
@@ -10,7 +10,7 @@ Ideas:
   Description - The user has a choice to choose a continent, and then they will have to name as much countries/states in that continent as they can. They have the option to 
                 stop anytime which will pull up the results or counties/states they've named out of the full list in that continent.
 
-  Idea - Decipher Project
+  Idea - Decypher Project
   Description - We can have a list of Cyphers that a person can choose from. They will input the Encrypted words and the code will decipher it. So basically a translator
                 for Cyphers. This is good because we can slowly just add more languages/Cyphers at our own pace.
 
@@ -36,19 +36,19 @@ https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_where_can_i_find_practic
 https://www.reddit.com/r/dailyprogrammer/
 https://www.reddit.com/r/programming/comments/68opf7/a_list_of_ideas_for_programming_projects/
 LeetCode
-  Idea -
-  Description - 
+  Idea - Matrix Solver
+  Description - A program where we can create the function of solving different sized matrices.
 
-  Idea -
-  Description - 
+  Idea - Calendar/Schedule Maker
+  Description - A program that creates a calendar and keeps track of long-term schedule stuff.
 
-  Idea -
-  Description - 
+  Idea - Wordsearch/Crossword/ Sudoku
+  Description - A program that does one of these 3 games.
 
-  Idea -
-  Description - 
+  Idea - Recipe Book
+  Description - A program in which you can pull a recipe after being searched for
 
-  Idea -
+  Idea - 
   Description - 
 
   Idea -
